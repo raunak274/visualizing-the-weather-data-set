@@ -40,3 +40,6 @@ image2
 Groupby the data by Weather and plot the graph of the mean Visibility (km) during different weathers. Call the function group_values() to plot the graph.
 The mean Visibility (km) during different Weathers is shown by the below graph.
 image3
+
+
+# for query contact: raunakagarwal274@gmail.com
